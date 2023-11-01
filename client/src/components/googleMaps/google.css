@@ -1,0 +1,21 @@
+.map-container {
+    height: 100vh;
+    width: 100%;
+}
+
+.comboBox-container {display: flex;
+justify-content: center;
+padding: 2% 0% 2% 0%;
+background-color: #e8f5e9;
+
+
+}
+
+.comboBox-input {
+  width: 50%;
+
+}
+
+.places-container {
+  width: 100%;
+}
